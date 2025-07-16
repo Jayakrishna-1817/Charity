@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CharityChain - Blockchain-Based Transparent Donation Platform
 
 ## Overview
@@ -419,3 +420,6 @@ For support and questions:
 
 **CharityChain** - *Transforming charitable giving through blockchain transparency*
 
+=======
+# Charity
+>>>>>>> eb4f67ef1b4f7c61d71ce654332cb0ece98ac103
